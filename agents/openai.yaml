@@ -1,0 +1,4 @@
+interface:
+  display_name: "PO Agent"
+  short_description: "Советник по решениям Senior/Lead Product Owner"
+  default_prompt: "Используй $po-agent, чтобы разобрать продуктовую ситуацию и рекомендовать, как следует поступить живому владельцу продукта."
