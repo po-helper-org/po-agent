@@ -140,7 +140,7 @@ Goal задаёт направление дольше квартала, Objectiv
 результат. Для Goal и Objective нужны metric link, период, владелец и решение
 `completed / cancelled` с объяснением.
 
-Стандарт допускает PBV, ABV, ICE, RICE, WSJF, MTS Prio, CTB/RTB, Priority и
+Стандарт допускает PBV, ABV, ICE, RICE, WSJF, Corporate Prio, CTB/RTB, Priority и
 Severity. Применяй их как разные линзы:
 
 - value score не заменяет доказательство ценности;
